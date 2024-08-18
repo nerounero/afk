@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/4fbaf873-0117-4363-9b25-4f3cf479f6b0
 # Afk
 ## これはなに
 放置中であることをほかのプレイヤーに知らることができます。
@@ -14,4 +12,7 @@ https://github.com/user-attachments/assets/4fbaf873-0117-4363-9b25-4f3cf479f6b0
 
 もう一度`/afk`を実行するか少し移動すると出てくるテキストをクリックすると解除できます。
 
-Uploading javaw_VpvB8Vlkue.mp4…
+https://github.com/user-attachments/assets/4fbaf873-0117-4363-9b25-4f3cf479f6b0
+
+## ライセンスの類
+特になし。ソースコード含めご自由にお使いください。
