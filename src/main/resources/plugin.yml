@@ -1,0 +1,8 @@
+name: afk
+version: '${project.version}'
+main: com.nerounero.afk.Afk
+api-version: '1.20'
+commands:
+  afk:
+    description: Toggles AFK status
+    usage: /afk
